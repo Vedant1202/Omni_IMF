@@ -1,3 +1,4 @@
 # Omni_IMF
-GSOC demo task
-\n Dataframe(done) and plot tool(test).
+GSOC demo task.
+
+Dataframe(done) and plot tool(test).
